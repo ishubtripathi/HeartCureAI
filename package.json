@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.0",
     "@headlessui/react": "^1.7.18",
     "framer-motion": "^11.0.8",
     "lucide-react": "^0.344.0",
@@ -17,7 +18,8 @@
     "react-countup": "^6.5.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.22.2",
-    "react-use-measure": "^2.1.1"
+    "react-use-measure": "^2.1.1",
+    "recharts": "^2.15.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
